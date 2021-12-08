@@ -3,17 +3,16 @@
 #        main         # MAIN FILE
 #                     #
 #####################################
-#  Author: Cracker911181 ############
+#  Author: Mr Anonymous ############
 #####################################
 #                            #
-#   CODER :  CRACKER911181   #
+#   CODER :  Mr Anonymous    #
 #                            #
 ##############################
 
 
 
-# Coded by Cracker
-# CRACKER911181
+# Coded by Mr Anonymous
  
 
 import base64, codecs
