@@ -5,20 +5,9 @@
 This is A Python & Bash Programming Based Termux-Tool Created By CRACKER911181. This Tool Created For Hacking and Pentesting. If You Use This Tool To Evil Purpose,The Owner Will Never be Responsible For That. Termux User only.
 
 	 _________________________
-	| CRACKER ALL IN ONE TOOL |
+	| MRN ALL IN ONE TOOL |
 	 —————————————————————————
 
-	        | @   @ |
-                 ———————
-                |cracker| 
-                 ———————
-            /\  |       |   /\\
-           // \——       ———/  \\ 
-      ____// crack your world  \\____
-
-    |==================================|
-    |        DON'T COPY MY STYLE       |
-    |==================================|
 
 
 		VERSION
@@ -61,24 +50,22 @@ $ apt upgrade -y
 $ apt update -y
 $ pkg install git 
 $ pkg install python -y
-$ git clone https://github.com/cracker911181/Cracker-Tool
+$ git clone https://github.com/Mr- Anonymous002/MRN-tools
 
 
 [+] Run This Tool, Put The Following Commands in Your Termux:
 
-$ cd Cracker-Tool
+$ cd MRN-tools
 $ python cracker-main.py
 
 
 [+] You can use this one line command for installation:
 
-$ curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py 
+$ curl https://raw.githubusercontent.com/Mr-Anonymous002/MRN-tools/main/crcu.py | python ; cd MRN-tools ; python cracker-main.py 
 
 
-		CONTACT INFO
+		Owner Info
 	       ______________
 
-FB       | https://facebook.com/cracker911181
-GitHub   | https://github.com/cracker911181
-Telegram | https://t.me/cracker911181
 
+Mr Anonymous
