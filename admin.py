@@ -1,5 +1,4 @@
-# Coded by Cracker
-# CRACKER911181
+# Mr Anonymous
 
 
 import base64, codecs
